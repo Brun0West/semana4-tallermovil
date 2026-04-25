@@ -49,3 +49,5 @@ htmlcov/
 
 # Archivos de entorno de producción
 instance/
+
+flutter/
